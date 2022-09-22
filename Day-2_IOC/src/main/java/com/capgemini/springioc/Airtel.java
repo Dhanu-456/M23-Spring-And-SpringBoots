@@ -12,6 +12,8 @@ public class Airtel implements Sim
 	public void Data()
 	{
 		System.out.println("Data using Airtel Sim");
+		
+		
 
 	}
 
